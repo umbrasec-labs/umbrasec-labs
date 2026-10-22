@@ -33,7 +33,7 @@ Independent defensive security practice. I build detections, dig into how real a
 - **doing**: Detection engineering · AI threats · threat analysis
 - **background**: Seven years in GRC and detection engineering, including regulated and public-sector environments
 - **based**: Globally / remote
-- **working in**: Sigma, KQL, MITRE ATT&CK, Essential Eight
+- **working in**: Sigma, KQL, MITRE ATT&CK, NIST CSF 2.0
 - **rule**: Defensive only. Every claim tied to a primary source.
 
 <br>
@@ -46,7 +46,7 @@ Independent defensive security practice. I build detections, dig into how real a
   <img src="https://img.shields.io/badge/●-KQL-171717?style=for-the-badge&labelColor=F56E0F" alt="KQL" />
   <img src="https://img.shields.io/badge/●-MITRE_ATT%26CK-171717?style=for-the-badge&labelColor=AEAB94" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/●-OWASP_LLM_Top_10-171717?style=for-the-badge&labelColor=88A57D" alt="OWASP LLM Top 10" />
-  <img src="https://img.shields.io/badge/●-Essential_Eight-171717?style=for-the-badge&labelColor=959C95" alt="Essential Eight" />
+  <img src="https://img.shields.io/badge/●-NIST_CSF_2.0-171717?style=for-the-badge&labelColor=959C95" alt="NIST CSF 2.0" />
 </p>
 
 <!-- the toolbelt -->
