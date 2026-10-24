@@ -27,12 +27,11 @@
 
 ## whoami
 
-Independent defensive security practice. I build detections, dig into how real attacks work, and focus on AI-enabled and AI-targeted threats.
+Independent defensive security project. I build detections, dig into how real attacks work, and focus on AI-enabled and AI-targeted threats.
 
 - **alias**: `0xdev1`
 - **doing**: Detection engineering · AI threats · threat analysis
-- **background**: Seven years in GRC and detection engineering, including regulated and public-sector environments
-- **based**: Globally / remote
+- **background**: GRC and detection engineering, including regulated and public-sector environments
 - **working in**: Sigma, KQL, MITRE ATT&CK, NIST CSF 2.0
 - **rule**: Defensive only. Every claim tied to a primary source.
 
