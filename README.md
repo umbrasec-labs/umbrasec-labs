@@ -15,9 +15,6 @@
   <a href="https://umbrasec.dev">
     <img src="https://img.shields.io/badge/umbrasec.dev-171717?style=for-the-badge&logo=cloudflare&logoColor=F25623" alt="Website" />
   </a>&nbsp;
-  <a href="https://theshipwreck.beehiiv.com/subscribe">
-    <img src="https://img.shields.io/badge/The_Shipwreck_newsletter-171717?style=for-the-badge&logo=rss&logoColor=88A57D" alt="The Shipwreck newsletter" />
-  </a>&nbsp;
   <a href="https://x.com/umbrasecdev">
     <img src="https://img.shields.io/badge/@umbrasecdev-171717?style=for-the-badge&logo=x&logoColor=AEAB94" alt="UMBRASEC on X" />
   </a>
