@@ -7,7 +7,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1000&color=F25623&center=true&vCenter=true&width=650&height=50&lines=0xdev1+%2F%2F+defensive+security;Detection+engineering+%C2%B7+AI+threats+%C2%B7+threat+analysis;Show+the+query.+Cite+the+source." alt="0xdev1 // defensive security" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1000&color=F25623&center=true&vCenter=true&width=700&height=50&lines=0xdev1+%2F%2F+defensive+security;Detection+engineering+%C2%B7+AI+threats+%C2%B7+threat+analysis;Trace+the+technique.+Forge+the+rule." alt="0xdev1 // defensive security" />
 </p>
 
 <!-- Links -->
