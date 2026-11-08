@@ -1,0 +1,3 @@
+# Claude Code saves approved commands here word for word, secrets included.
+# Ignored here so it holds on every machine, not only through global excludes.
+**/.claude/settings.local.json
